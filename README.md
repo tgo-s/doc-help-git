@@ -98,7 +98,7 @@ Lembrando que no servidor geralmente terá uma branch master, com a versão rele
 
 ### Dicas adicionais
 
-Se for preciso criar um bransh e enviá-lo para o servidor 
+Se for preciso criar um branch e enviá-lo para o servidor 
 ```bash
 git push origin nome-do-branch
 git push --set-upstream origin nome-do-branch
